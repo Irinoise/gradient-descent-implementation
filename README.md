@@ -31,3 +31,9 @@ Constant **small learning rate** would lead to taking a lot of time to converge.
 ## The Stopping Criteria
 
 <img src="https://github.com/Irinoise/gradient-descent-implementation/blob/main/Stopping_criteria.png" alt="Stopping criteria" width="520" title="Stopping criteria">
+
+## Calculation of Gradient in Matrix Form
+
+<img src="https://github.com/Irinoise/gradient-descent-implementation/blob/main/Matrix_form_of_gradient_calc.png" alt="Matrix form of gradient" width="520" title="Matrix form of gradient"> 
+
+<sub><sup>Gradient Descent / Dr. Xiaowei Huang. – URL: https://cgi.csc.liv.ac.uk/~xiaowei/ai_materials/14-Gradient-Descent.pdf</sup></sub>
