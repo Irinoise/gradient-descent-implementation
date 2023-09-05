@@ -1,1 +1,2 @@
-# gradient-descent-implementation
+# Gradient Descent Implementation in Matrix Form
+
